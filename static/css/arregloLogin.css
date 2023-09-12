@@ -1,0 +1,12 @@
+#nombreError {
+    display: none;
+    font-size: 0.8em;
+  }
+  
+  #nombreError.visible {
+    display: block;
+  }
+  
+  input.invalido {
+    border-color: red;
+  }
